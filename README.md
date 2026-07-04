@@ -3,7 +3,7 @@ Automate Security Compliance on AWS with Lambda &amp; Python
 
 # 🛡️ Automated EC2 Security Compliance with AWS Lambda
 
-Learn how to write a Python script that automatically finds and terminates EC2 instances with SSH open to the world (`0.0.0.0/0`), then deploy it as an **AWS Lambda function** that runs automatically whenever a new EC2 instance is launched — powered by **Amazon EventBridge**.
+The goal of this project is to write a Python script that automatically finds and terminates EC2 instances with SSH open to the world (`0.0.0.0/0`), then deploy it as an **AWS Lambda function** that runs automatically whenever a new EC2 instance is launched — powered by **Amazon EventBridge**.
 
 ---
 
